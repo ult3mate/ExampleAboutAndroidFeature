@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/instantapp/instantapp.iml" filepath="$PROJECT_DIR$/instantapp/instantapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/layout/layout.iml" filepath="$PROJECT_DIR$/layout/layout.iml" />
       <module fileurl="file://$PROJECT_DIR$/networksample/networksample.iml" filepath="$PROJECT_DIR$/networksample/networksample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supportlayout/supportlayout.iml" filepath="$PROJECT_DIR$/supportlayout/supportlayout.iml" />
     </modules>
   </component>
 </project>

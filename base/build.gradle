@@ -30,6 +30,7 @@ dependencies {
     feature project(":layout")
     feature project(":networksample")
     implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    feature project(":supportlayout")
 }
 
 apply plugin: 'kotlin-android'
